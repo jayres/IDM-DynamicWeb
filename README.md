@@ -49,7 +49,7 @@ Grades will be determined by the following criteria:
 - 25%: Final Project
 - 20%: Midterm Project
   - Projects will be graded based on fulfilling the project criteria, demonstrating your knowledge of course materials, code quality, problem solving skills, and level of difficulty. A grading rubric will be attached to the project assignments to help students understand what is expected of them - however these projects contain a creative component and students are urged to push boundaries and experiment. The creative component is critical to attaining a maximum grade on all projects.
-- 50%: Exercises (5 total exercises - 10% each)
+- 40%: Exercises (5 total exercises - 8% each)
   - Exercises will be graded based on completion of the exercise objectives
 - 15%: Attendance and Participation
   - Attendance is mandatory unless excused.
@@ -68,15 +68,15 @@ Performance and attendance of the student has been less than adequate. Work is l
 #### F. Unacceptable (59 & Below)
 Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest.
 ## Assignments, Projects, and Other Grades
-Exercise One (10%): Setup Accounts and Deploy Simple Application - Due Sept. 19
+Exercise One (8%): Setup Accounts and Deploy Simple Application - Due Sept. 19
 
-Exercise Two (10%): Weather App - Due Oct. 10
+Exercise Two (8%): Weather App - Due Oct. 10
 
-Exercise Three (10%): Simple Server - Due Oct. 29
+Exercise Three (8%): Simple Server - Due Oct. 29
 
-Exercise Four (10%): Creating an API - Due Nov. 14
+Exercise Four (8%): Creating an API - Due Nov. 14
 
-Exercise Five (10%): Morphing Data & Expressive Output - Due Dec. 5
+Exercise Five (8%): Morphing Data & Expressive Output - Due Dec. 5
 
 Midterm Project (20%): Due Oct. 31
 
