@@ -27,14 +27,6 @@ Read the relevant text and scroll down to examples, make sure you understand the
 [MDN - Dates](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 This will be useful for exercise one!!!
 
-[Introduction to APIs](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/)
-
-[MDN - HTTP Request Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-We are going to focus on POST for this class. Feel free to browse the other methods for your own good.
-
-[MDN - Post Method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)
-
-
 ## Thursday
 No Assigned Readings
 
