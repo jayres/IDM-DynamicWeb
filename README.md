@@ -113,37 +113,33 @@ Browsers, Servers, Protocols: What are they and how do they work together?
 *Studio*: Exercise One Assigned
 #### Class 3: Tuesday, September 10
 *Lecture*:
+Introduction to React and Other JavaScript Frameworks
 
 JavaScript Review: Strings, Arrays, Objects, Numbers
 
 Basics of APIs
-
-Understanding Querying Data
 #### Class 4: Thursday, September 12
 NO CLASS SEE RECORDED LECTURE AND RESOURCES ON GITHUB
 #### Class 5: Tuesday, September 17
 *Lecture*:
 
-Headers and Protocol Deep Dive
-
 JavaScript Review: Methods, Functions, JSON
 
-Parsing Data, Responses, and Errors
 #### Class 6: Thursday, September 19
 *Studio*: Finish Exercise One and expand on application of API understanding
 ### Part Two: Applying Server/Client Relationship to Creative Practice
 #### Class 7: Tuesday, September 24
-*Lecture*: 
-
-Introduction to React and Other JavaScript Frameworks
+*Lecture*:
+Overview of React and how data passes through a modern JavaScript application
 
 How can a dynamic system be part of a creative practice
 #### Class 8: Thursday, September 26
 *Studio*: Begin Exercise Two & work on setting up Create React App
 #### Class 9: Tuesday, October 1
 *Lecture*:
+Understanding Querying Data
 
-Overview of React and how data passes through a modern JavaScript application
+Headers and Protocol Deep Dive
 
 Discuss examples of interactive digital art
 #### Class 10: Thursday, October 5
@@ -151,9 +147,9 @@ Discuss examples of interactive digital art
 #### Class 11: Tuesday, October 8
 *Lecture*: 
 
-Application Stat- Why it’s important to understand and track
+Application State - Why it’s important to understand and track existing Data and How to Work with It
 
-Existing Data and How to Work with It
+Parsing Data, Responses, and Errors
 #### Class 12: Thursday, October 10
 *Studio*: Finish Exercise Two 
 ### Part Three: Building Servers and Connecting Servers to Clients

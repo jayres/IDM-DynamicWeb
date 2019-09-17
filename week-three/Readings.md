@@ -1,4 +1,4 @@
-# Readings for Week Two
+# Readings for Week Three
 
 ## Tuesday
 
