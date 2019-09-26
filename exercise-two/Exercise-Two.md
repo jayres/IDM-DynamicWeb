@@ -20,7 +20,6 @@ npx create-react-app exercise-one
   - Home page
   - Clean out files you are not going to use
 6. Create components for injesting data in a `components` folder
-7. Install React Router (`npm add react-router react-router-dom`)
 ### 8. Setting up Weather API
 - Go to [https://openweathermap.org/guide](https://openweathermap.org/guide) and follow the directions to create a new account (use your school address and you won't have to pay anything)
 - When logged in, go to API Keys and copy your default key
