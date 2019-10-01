@@ -24,11 +24,22 @@ npx create-react-app exercise-one
 - Go to [https://openweathermap.org/guide](https://openweathermap.org/guide) and follow the directions to create a new account (use your school address and you won't have to pay anything)
 - When logged in, go to API Keys and copy your default key
 - Store your key somewhere
+
 9. Install Axios `npm add axios` 
 10. Setup a query based on a city
-... MORE STEPS TO COME
-
-14. Submit the link to the Github repo to James at ja155@nyu.edu
+11. Display:
+  - Weather Type (ex. Cloudy)
+  - Current Temperature
+  - High Temperature
+  - Low Temperature
+  - Cloudiness
+  - Humidity
+  - Wind Speed
+12. Setup URL Queries for different cities (at least 4 cities)
+13. Display image based on weather type
+14. Set background color based on cloudiness (or temperature if you want)
+15. Style the page so it has a unique look and has a responsive layout
+16. Submit the link to the Github repo to James at ja155@nyu.edu
 
 ## Useful Resources
 [Create React App](https://github.com/facebook/create-react-app)
@@ -39,4 +50,17 @@ npx create-react-app exercise-one
 Please note that this is for a different _methodology_ of React that we are going to be using for this class - it is instructive though and should help you understand some more in depth things.
 
 [OpenWeather API](https://openweathermap.org/current)
+
 [Axios](https://www.npmjs.com/package/axios)
+
+[URLSearchParams](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams)
+
+[useState](https://reactjs.org/docs/hooks-reference.html#usestate)
+
+[useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect)
+
+[Switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+
+[FontAwesome](https://fontawesome.com/how-to-use/on-the-web/setup/using-package-managers)
+
+[FontAwesome Weather Icons](https://fontawesome.com/icons?d=gallery&c=weather&m=free)
