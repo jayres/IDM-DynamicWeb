@@ -39,7 +39,7 @@ npx create-react-app exercise-one
 13. Display image based on weather type
 14. Set background color based on cloudiness (or temperature if you want)
 15. Style the page so it has a unique look and has a responsive layout
-16. Submit the link to the Github repo to James at ja155@nyu.edu
+16. Submit the link to the Github repo AND a screenshot of your weather app to James at ja155@nyu.edu
 
 ## Useful Resources
 [Create React App](https://github.com/facebook/create-react-app)
@@ -61,6 +61,6 @@ Please note that this is for a different _methodology_ of React that we are goin
 
 [Switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
 
-[FontAwesome](https://fontawesome.com/how-to-use/on-the-web/setup/using-package-managers)
+[FontAwesome](https://www.npmjs.com/package/@fortawesome/react-fontawesome)
 
 [FontAwesome Weather Icons](https://fontawesome.com/icons?d=gallery&c=weather&m=free)

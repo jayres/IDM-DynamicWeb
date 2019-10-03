@@ -142,8 +142,9 @@ Understanding Querying Data
 Headers and Protocol Deep Dive
 
 Discuss examples of interactive digital art
-#### Class 10: Thursday, October 5
+#### Class 10: Thursday, October 3
 *Studio*: Exercise Two work and review last two technical lectures
+
 #### Class 11: Tuesday, October 8
 *Lecture*: 
 
@@ -152,13 +153,14 @@ Application State - Why it’s important to understand and track existing Data a
 Parsing Data, Responses, and Errors
 #### Class 12: Thursday, October 10
 *Studio*: Finish Exercise Two 
+
+Assign Midterm Project
+
 ### Part Three: Building Servers and Connecting Servers to Clients
 #### Class 13: Tuesday, October 15
 *Lecture*:
-
 Introduction to Node Servers
 
-Assign Midterm Project
 #### Class 14: Thursday, October 17
 *Studio*: Assign Exercise Three & Work through setting up Node servers
 #### Class 15: Tuesday, October 22
