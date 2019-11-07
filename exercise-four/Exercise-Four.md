@@ -29,6 +29,6 @@ The purpose of this exercise is to get used to getting and posting data to an AP
 
 [Node Firebase SDK](https://firebase.google.com/docs/reference/node)
 
-[Firebase Database Docs](https://firebase.google.com/docs/reference/node/firebase.database.Database)
+[Firebase Database Docs](https://firebase.google.com/docs/firestore)
 
-[Firebase Read & Write Data](https://firebase.google.com/docs/database/web/read-and-write)
+[Firebase Read & Write Data](https://firebase.google.com/docs/firestore/query-data/get-data)
