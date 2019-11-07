@@ -26,6 +26,9 @@ The purpose of this exercise is to get used to getting and posting data to an AP
 [Deploying Node to Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
 
 [Firebase Setup in JavaScript](https://firebase.google.com/docs/database/web/start/)
+
 [Node Firebase SDK](https://firebase.google.com/docs/reference/node)
+
 [Firebase Database Docs](https://firebase.google.com/docs/reference/node/firebase.database.Database)
+
 [Firebase Read & Write Data](https://firebase.google.com/docs/database/web/read-and-write)
