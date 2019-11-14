@@ -20,7 +20,7 @@ The purpose of this exercise is to get used to getting and posting data to an AP
 7. Setup a query from Firebase for all articles
 8. Setup a route for each article
 9. Setup a route for all articles
-10. ...
+10. Create an html form in a route that has an action which posts to your API
 11. Submit the link to the Github repo AND the link to the deployed server to James at ja155@nyu.edu
 
 ## Useful Resources
