@@ -33,12 +33,18 @@ _Note:_ Focus on "web" instead of Node for this project. Node will take you deep
 
 [Firebase Config Object](https://firebase.google.com/docs/web/setup?authuser=0#config-object)
 
-[Firestore Get Started](https://firebase.google.com/docs/firestore/quickstart?authuser=0)
+[Firestore Get Started](https://firebase.google.com/docs/firestore/quickstart)
 
 [Firebase SDK Firestore](https://firebase.google.com/docs/reference/node/firebase.firestore.html)
 
 [Firebase Database Docs](https://firebase.google.com/docs/firestore)
 
 [Firebase Read & Write Data](https://firebase.google.com/docs/firestore/query-data/get-data)
+
+[Firebase Set Data](https://firebase.google.com/docs/firestore/manage-data/add-data)
+
+[MDN - Node Forms](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms)
+
+### Extra Resources
 
 [Firestore Quickstart GitHub Repo](https://github.com/firebase/quickstart-js/tree/master/firestore) : This might contain some useful code but note that it is not the same as the exercise. Keeping this here for future knowledge
