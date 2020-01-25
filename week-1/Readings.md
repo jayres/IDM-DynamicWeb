@@ -1,9 +1,9 @@
 # Readings for Week One
 
-## Tuesday
+## Monday
 No assigned readings
 
-## Thursday
+## Wednesday
 No mandatory readings
 
 ### Optional Readings
