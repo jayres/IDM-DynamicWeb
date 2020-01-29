@@ -16,7 +16,7 @@ Monday & Wednesday: 8:30 a.m. - 10:20 a.m.
 
 ### Professor Contact Information
 
-jfrancis.ayres@gmail.com
+ja155@nyu.edu
 
 370 Jay St, Room 307
 
