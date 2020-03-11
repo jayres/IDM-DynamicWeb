@@ -12,7 +12,7 @@
 2. Install Create React App and Create New Project
 
 ```
-npx create-react-app exercise-one
+npx create-react-app exercise-two
 ```
 
 (note, you may have to install npx: `npm install -g npx`)
