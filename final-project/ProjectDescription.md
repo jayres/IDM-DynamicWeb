@@ -1,4 +1,4 @@
-# Dynamic Web - Fall 2019 - Final Project
+# Dynamic Web - Final Project
 
 The goal of this project is to demonstrate your understanding of the following things:
 
