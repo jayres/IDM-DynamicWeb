@@ -13,7 +13,7 @@ These core concepts have been taught and discussed in the five exercises and the
 
 Send James the Github link to your project, a link to a deployed website, and a link to a deployed API. List the places where you meet the project requirements as well.
 
-The project is due ​no later than December 12​.
+The project is due ​no later than May 11​.
 
 No late assignments - talk with me well ahead of time if you need any help or accommodations.
 
