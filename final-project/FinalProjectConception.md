@@ -24,7 +24,7 @@
 
    a. Now that you've identified the problems you can make the project stand out.
 
-# Abstract Approach (more artful)
+## Abstract Approach (more artful)
 
 1. What is a topic or series of topics you are interested in?
 2. How does user interaction affect the influence of this topic?
