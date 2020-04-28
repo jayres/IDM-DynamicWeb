@@ -1,8 +1,44 @@
 # Github Best Practices
 
-## Participating in the Code Base
+## Setting up a Github Repo
+
+1. Log into Github
+2. in the top right corner there is a + icon click that and then "New Repository"
+3. Put the repository name in and then click Create Repository (do not click Initialize this repository with a README)
+4. You will then be taken to a page which gives you two options: 1. create a new repository on the command line or 2. push an existing repository from the command line
+
+Choose Create new repository on the command line
+
+5. Go to your folder where you have your code already in the command line
+
+```
+cd /location/of/the/code
+```
+
+5. run the commands from this section in your command line tool
+   ex.
+
+```
+git init
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:userName/IDM-project.git // This will be unique to your repo
+git push -u origin master
+```
+
+6. Your Github repo will now be set up
+7. Make changes to your code and push up the code as you are working
+
+```
+git add .
+git commit -m "commit message"
+git push origin master
+```
+
+## Participating in the Code Base (Advanced)
 
 All push requests should be:
+
 1. Restricted to a single feature
 2. Be small and focused
 3. Always be code reviewed before being merged
@@ -20,7 +56,7 @@ git checkout --no-track -b feature/branch-name origin/master
 
 ```
 git remote update
-git rebase -i origin/master 
+git rebase -i origin/master
 ```
 
 - this will open an interactive rebase in vim
