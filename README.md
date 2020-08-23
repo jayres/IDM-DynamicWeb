@@ -1,4 +1,4 @@
-# DM-UY 3193: Dynamic Web Applications - Spring 2020
+# DM-UY 3193: Dynamic Web Applications - Fall 2020
 
 Tandon School of Engineering of New York University
 
@@ -8,9 +8,9 @@ Integrated Digital Media
 
 ## When
 
-Monday & Wednesday: 8:30 a.m. - 10:20 a.m.
+Tuesday & Thursday: 2:00 p.m. - 3:50 p.m.
 
-370 Jay Street, Room 307
+370 Jay Street, Room 311
 
 ## Who
 
@@ -22,7 +22,7 @@ ja155@nyu.edu
 
 ### Office Hours
 
-Monday: 10:30 a.m. - 11:30 a.m. or by appointment
+Tuesday: 4:00 p.m. - 5:00 p.m. or by appointment
 
 # Course Policies
 
@@ -57,11 +57,11 @@ By the end of the course, students will be able to:
 
 ### Lectures
 
-Monday will consist of lectures to discuss the readings and for additional teaching. Lectures will be more conversational than direct instruction so students are expected to be prepared to discuss and share their thoughts. Questions are encouraged.
+Tuesday will consist of lectures to discuss the readings and for additional teaching. Lectures will be more conversational than direct instruction so students are expected to be prepared to discuss and share their thoughts. Questions are encouraged.
 
 ### Studio Time
 
-Wednesday will consist of mostly studio time where students will work on exercises, learn to pair program, and have short, smaller lectures based on the materials being handled in the exercises.
+Thursday will consist of mostly studio time where students will work on exercises, learn to pair program, and have short, smaller lectures based on the materials being handled in the exercises.
 Readings
 
 _There is no textbook for the course_. Readings will be made available in the Github repository for the course and students are responsible for checking the reading list on their own. Though there may be updates to the readings throughout the semester, there will be no updates one week before class.
@@ -106,19 +106,19 @@ Performance and attendance of the student has been such that course requirements
 
 ## Assignments, Projects, and Other Grades
 
-Exercise One (10%): Setup Accounts and Deploy Simple Application - Due X
+Exercise One (10%): Setup Accounts and Deploy Simple Application
 
-Exercise Two (10%): Weather App - Due X_X
+Exercise Two (10%): Weather App
 
-Exercise Three (10%): Simple Server - Due X_X
+Exercise Three (10%): Simple Server
 
-Exercise Four (10%): Creating an API - Due X_X
+Exercise Four (10%): Creating an API
 
-Exercise Five (10%): Users and Authentication - Due X_X
+Exercise Five (10%): Users and Authentication
 
-Midterm Project (20%): Due X_X
+Midterm Project (20%)
 
-Final Project (25%): Due X_X
+Final Project (25%)
 
 Other Grades (5%): _See above for explanation of “Attendance and Participation” portion of the grade._
 
@@ -133,15 +133,17 @@ You must be registered with CSD to receive accommodations. Information about the
 
 _Please refer to the official academic schedule for all dates._
 
-Monday, January 27: First class
+Thursday, September 4: First class
 
-Sunday, February 9: Last day to drop and receive a "W"
+Tuesday, September 15: Last day to Add/Drop course and receive refund
 
-Monday, February 17: NO CLASS - President's Day
+Tuesday, November 3: Midterm grades due and last day to withdraw from class
 
-Monday, March 16 - Sunday, March 22: Spring Recess
+Thursday, November 26: No class (Thanksgiving break)
 
-Monday, May 11: Final Class
+Thursday, December 10: Final class
+
+Thursday, December 13: Final grades due
 
 ## Weekly Schedule
 
@@ -149,17 +151,17 @@ Please note that this schedule may shift as the semester goes on to account for 
 
 ### Part One: Understanding Server/Client Relationship and Protocols
 
-#### Class 1: Monday, January 27
+#### Class 1:
 
 _Lecture_:
 
 Browsers, Servers, Protocols: What are they and how do they work together?
 
-#### Class 2: Wednesday, January 29
+#### Class 2:
 
 _Studio_: Exercise One Assigned
 
-#### Class 3: Monday, February 3
+#### Class 3:
 
 _Lecture_:
 Introduction to React and Other JavaScript Frameworks
@@ -168,28 +170,26 @@ JavaScript Review: Strings, Arrays, Objects, Numbers
 
 Basics of APIs
 
-#### Class 4: Wednesday, February 5
+#### Class 4:
 
 _Studio_:
 CSS and JavaScript application
 
 Work on Exercise One
 
-#### Class 5: Monday, February 10
+#### Class 5:
 
 _Lecture_:
 
 JavaScript Review: Methods, Functions, JSON
 
-#### Class 6: Wednesday, February 12
+#### Class 6:
 
 _Studio_: Finish Exercise One and expand on application of API understanding
 
 ### Part Two: Applying Server/Client Relationship to Creative Practice
 
-#### Monday, February 17: NO CLASS - PRESIDENT'S DAY
-
-#### Class 7: Wednesday, February 19
+#### Class 7:
 
 _Lecture_:
 Overview of React and how data passes through a modern JavaScript application
@@ -198,18 +198,14 @@ How can a dynamic system be part of a creative practice
 
 _Studio_: Begin Exercise Two & work on setting up Create React App
 
-#### Class 8: Monday, February 24
-
-_NO CLASS - PROFESSOR OUT OF TOWN - WILL HAVE RECORDED LECTURE_
-
-#### Class 9: Wednesday, February 26
+#### Class 8:
 
 _Lecture_:
 Understanding Querying Data
 
 _Studio_: Exercise Two work and review last two technical lectures
 
-#### Class 11: Monday, March 2
+#### Class 9:
 
 _Lecture_:
 
@@ -217,7 +213,7 @@ Application State - Why it’s important to understand and track existing Data a
 
 Parsing Data, Responses, and Errors
 
-#### Class 12: Wednesday, March 4
+#### Class 10:
 
 _Studio_: Finish Exercise Two
 
@@ -225,20 +221,16 @@ Assign Midterm Project
 
 ### Part Three: Building Servers and Connecting Servers to Clients
 
-#### Class 13: Monday, March 9
+#### Class 11:
 
 _Lecture_:
 Introduction to Node Servers
 
-#### Class 14: Wednesday, March 11
+#### Class 12:
 
 _Studio_: Assign Exercise Three & Work through setting up Node servers
 
-#### No Class: Monday, March 16
-
-#### No Class: Wednesday, March 18
-
-#### Class 15: Monday, March 23
+#### Class 13:
 
 _Lecture_:
 
@@ -246,7 +238,7 @@ Building an API in Node
 
 Rendering views in Express
 
-#### Class 16: Wednesday, March 25
+#### Class 14:
 
 _Studio_:
 
@@ -254,7 +246,7 @@ Work on Exercise Three
 
 Time to check in and get status on Midterm Projects
 
-#### Class 17: Monday, March 30
+#### Class 15:
 
 _Additional Studio Time_:
 
@@ -262,13 +254,13 @@ Work on Midterm projects and ask questions
 
 Exercise Three Due
 
-#### Class 18: Wednesday, April 1
+#### Class 16:
 
 Midterm projects due & project presentations
 
 ### Part Four: Using Servers, Understanding Data Structures, and Morphing Data
 
-#### Class 19: Monday, April 6
+#### Class 17:
 
 _Lecture_:
 
@@ -278,11 +270,11 @@ Importance of Types in Data Structures
 
 Working with Data Schemas
 
-#### Class 20: Wednesday, April 8
+#### Class 18:
 
 _Studio_: Exercise Four assigned
 
-#### Class 21: Monday, April 13
+#### Class 19:
 
 _Lecture_:
 
@@ -292,11 +284,11 @@ Patterns and Abstraction
 
 Packages & Package Management
 
-#### Class 22: Wednesday, April 15
+#### Class 20:
 
 _Studio_: Work on Exercise Four
 
-#### Class 23: Monday, April 20
+#### Class 21:
 
 _Lecture_:
 
@@ -304,23 +296,23 @@ Conceptual Understanding of Authentication
 
 Assign Final Projects
 
-#### Class 24: Wednesday, April 22
+#### Class 22:
 
 _Studio_: Finish Exercise Four
 
-#### Class 25: Monday, April 27
+#### Class 23:
 
 _Lecture_:
 
 [Professor saves this time for reviewing and expanding understanding of existing topics]
 
-#### Class 26: Wednesday, April 29
+#### Class 24:
 
 _Studio_: Assign Exercise Five
 
 ### Part Five: Security, Ethics, and Experimentation in a Creative Practice
 
-#### Class 27: Monday, May 4
+#### Class 25:
 
 _Lecture_:
 
@@ -328,7 +320,7 @@ Basics of Security with Web Applications
 
 Discussion of Ethics with Web Applications
 
-#### Class 28: Wednesday, May 6
+#### Class 26:
 
 _Lecture_: Creative Practice overview (45 minutes)
 
@@ -336,6 +328,6 @@ _Lecture_: Creative Practice overview (45 minutes)
 
 _Studio_: Finish Exercise Five
 
-#### Class 29: Monday, May 11
+#### Class 27:
 
 Final Project Due & Project Presentations
