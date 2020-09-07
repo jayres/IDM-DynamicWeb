@@ -1,6 +1,21 @@
-# Readings for Week Two
+# Week Two
 
-## Monday
+## Tuesday
+
+### What we will cover:
+
+1. What is a server, a browser, and a protocol?
+2. Walking through Create React App (CRA) default
+3. Cleaning up CRA to get ready to do work
+
+## Thursday
+
+### What we will cover:
+
+1. Look at various examples of dynamic projects
+2. Walkthrough of basic types in JavaScript
+
+### Readings
 
 [Can a Social-Justice App Be Art? - The New Yorker](https://www.newyorker.com/culture/culture-desk/can-a-social-justice-app-be-art)
 
@@ -26,12 +41,3 @@ Read the relevant text and scroll down to examples, make sure you understand the
 
 [MDN - Dates](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 This will be useful for exercise one!!!
-
-## Wednesday
-
-No Assigned Readings
-
-### Optional Readings
-
-[How to Use an API](https://technologyadvice.com/blog/information-technology/how-to-use-an-api/)
-Honestly, this explains a lot of what I have already told you but I think it's good to see it written out.
