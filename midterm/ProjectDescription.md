@@ -13,9 +13,9 @@ These core concepts have been taught and discussed in the first two exercises an
 
 Send James the Github link to your project and a screenshot of the project. List the places where you meet the project requirements as well.
 
-The project is due ​no later than April 1.
+The project is due ​no later than _October 29th_
 
-This date is critical because I need to submit your midterm grades on April 3 - without this project being done on April 1, it would be impossible for me to grade it and submit your grade by then resulting in a poor Midterm grade. No late assignments - talk with me well ahead of time if you need any help or accommodations.
+This date is critical because I need to submit your midterm grades on November 3rd - without this project being done on _October 29th_, it would be impossible for me to grade it and submit your grade by then resulting in a poor Midterm grade. No late assignments - talk with me well ahead of time if you need any help or accommodations.
 
 ## Project Description
 
