@@ -1,4 +1,4 @@
-# DM-UY 3193: Dynamic Web Applications - Fall 2020
+# DM-UY 3193: Dynamic Web Applications - Fall 2021
 
 Tandon School of Engineering of New York University
 
@@ -8,9 +8,9 @@ Integrated Digital Media
 
 ## When
 
-Tuesday & Thursday: 2:00 p.m. - 3:50 p.m.
+Tuesday & Thursday: 8:00 a.m. - 9:50 a.m.
 
-370 Jay Street, Room 311
+370 Jay Street, Room 309
 
 ## Who
 
@@ -22,7 +22,7 @@ ja155@nyu.edu
 
 ### Office Hours
 
-Tuesday: 4:00 p.m. - 5:00 p.m. or by appointment
+Tuesday: 10:00 a.m. - 11:00 a.m. or by appointment
 
 # Course Policies
 
@@ -133,17 +133,21 @@ You must be registered with CSD to receive accommodations. Information about the
 
 _Please refer to the official academic schedule for all dates._
 
-Thursday, September 4: First class
+Thursday, September 2: First class
 
 Tuesday, September 15: Last day to Add/Drop course and receive refund
 
-Tuesday, November 3: Midterm grades due and last day to withdraw from class
+Tuesday, October 11: No class - Monday classes meet
+
+Tuesday, November 3: Midterm grades due
 
 Thursday, November 26: No class (Thanksgiving break)
 
-Thursday, December 10: Final class
+December 6: Last day to withdraw from class
 
-Thursday, December 13: Final grades due
+Tuesday, December 14: Last Class (and last day of classes)
+
+Friday, December 17: Final grades due
 
 ## Weekly Schedule
 
