@@ -1,12 +1,20 @@
 # Readings for Week Three
 
+No manadatory readings this week
+
 ## Tuesday
 
-Work on Exercise One
+### What we will cover
+
+1. Work on Exercise One
+2. Reintroduction to JavaScript Part 2
 
 ## Thursday
 
-No Assigned Readings
+### What we will cover
+
+1. Work on Exercise One
+2. Deeper dive into React
 
 ### Optional Readings
 

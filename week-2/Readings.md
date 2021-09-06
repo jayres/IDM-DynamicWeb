@@ -5,15 +5,20 @@
 ### What we will cover:
 
 1. What is a server, a browser, and a protocol?
-2. Walking through Create React App (CRA) default
-3. Cleaning up CRA to get ready to do work
+2. Look at various examples of dynamic projects
+3. Walkthrough of basic types in JavaScript
+4. Create React App Setup
 
 ## Thursday
 
+1. Cleaning up CRA to get ready to do work
+2. Assign Exercise One
+
 ### What we will cover:
 
-1. Look at various examples of dynamic projects
-2. Walkthrough of basic types in JavaScript
+1. Create React App
+2. Work through Exercise One
+3. Introduction to React
 
 ### Readings
 
