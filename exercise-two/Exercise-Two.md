@@ -33,13 +33,14 @@ npx create-react-app exercise-two
 
 ### 7. Setting up Weather API
 
-- Go to [https://openweathermap.org/guide](https://openweathermap.org/guide) and follow the directions to create a new account (use your school address and you won't have to pay anything)
-- When logged in, go to API Keys and copy your default key
-- Store your key somewhere
+- Go to [https://openweathermap.org/guide](https://openweathermap.org/guide) and follow the directions
+- [https://home.openweathermap.org/users/sign_up](https://home.openweathermap.org/users/sign_up) create a new account (use your school address and you won't have to pay anything)
+- When logged in, go to [API Keys](https://home.openweathermap.org/api_keys) and either create a key or use one that may be there
+- Store your key somewhere (in the code as per my instructions)
 
-9. Install Axios `npm add axios`
+9. Install Axios `npm install axios`
 
-10. Setup a query based on a city
+10. Setup a query based on a city per the OpenWeatherMap docs [https://openweathermap.org/current](https://openweathermap.org/current)
 
 11. Display:
 
