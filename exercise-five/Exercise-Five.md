@@ -41,6 +41,8 @@ The purpose of this exercise is to get create users and allow users to authentic
 
 [CI & Netlify Deploy Settings](https://dev.to/easybuoy/deploying-react-app-from-github-to-netlify-3a9j)
 
+[Deploy CRA to Netlify](https://www.freecodecamp.org/news/how-to-deploy-react-router-based-app-to-netlify/)
+
 [Deploying to Netlify](https://docs.netlify.com/site-deploys/overview/#branch-deploy-controls)
 
 [Firebase Auth](https://firebase.google.com/docs/auth)
