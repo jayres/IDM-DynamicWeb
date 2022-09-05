@@ -1,18 +1,19 @@
-# Exercise Two: Weather App
+# Exercise One: Get Used to React and Showing Data
 
 ## Requirements:
 
-1. Use Github better
-2. Everything from Exercise One
+1. Text Editor
+2. NPM Installed
+3. JSON File from Github Repo
+4. Design Mockup
 
 ## Directions:
 
-1. Create new Github Repository named "Dynamic Web Exercise Two"
-
+1. Create new Github Repository named "Dynamic Web Exercise One"
 2. Install Create React App and Create New Project
 
 ```
-npx create-react-app exercise-two
+npx create-react-app exercise-one
 ```
 
 (note, you may have to install npx: `npm install -g npx`)
@@ -24,43 +25,29 @@ npx create-react-app exercise-two
 - React Router `npm install react-router`
 - React Router DOM `npm install react-router-dom`
 
-5. Create one page inside a `containers` folder
+5. Create two pages inside a `containers` folder
 
-- Home page
-- Clean out files you are not going to use
+- Article Listing Page
+- Article Page
+- Optional - clean out files you are not going to use
 
-6. Create components for injesting data in a `components` folder
+6. Create components for injesting JSON data in a `components` folder
 
-### 7. Setting up Weather API
+7. Loop over JSON data to show article previews
 
-- Go to [https://openweathermap.org/guide](https://openweathermap.org/guide) and follow the directions
-- [https://home.openweathermap.org/users/sign_up](https://home.openweathermap.org/users/sign_up) create a new account (use your school address and you won't have to pay anything)
-- When logged in, go to [API Keys](https://home.openweathermap.org/api_keys) and either create a key or use one that may be there
-- Store your key somewhere (in the code as per my instructions)
+8. Display full article on article page accessible by a route (for example, 'article-one' is available at '/article/article-one')
 
-9. Install Axios `npm install axios`
+9. Display image in card and in header on article
 
-10. Setup a query based on a city per the OpenWeatherMap docs [https://openweathermap.org/current](https://openweathermap.org/current)
+10. Display published date in card and on article page
 
-11. Display:
+11. Display title in card and on article page
 
-- Weather Type (ex. Cloudy)
-- Current Temperature
-- High Temperature
-- Low Temperature
-- Cloudiness
-- Humidity
-- Wind Speed
+12. Display blurb in card and on article page
 
-12. Setup URL Queries for different cities (at least 4 cities)
+13. Make sure the design of the exercise matches the provided designs EXACTLY
 
-13. Display image based on weather type
-
-14. Set background color based on cloudiness (or temperature if you want)
-
-15. Style the page so it has a unique look and has a responsive layout
-
-16. Submit the link to the Github repo AND a screenshot of your weather app to James at ja155@nyu.edu
+14. Submit the link to the Github repo to James at ja155@nyu.edu
 
 ## Useful Resources
 
@@ -69,20 +56,5 @@ npx create-react-app exercise-two
 [React Router](https://www.npmjs.com/package/react-router)
 
 [Getting an ID from the URL](https://tylermcginnis.com/react-router-url-parameters/)
+
 Please note that this is for a different _methodology_ of React that we are going to be using for this class - it is instructive though and should help you understand some more in depth things.
-
-[OpenWeather API](https://openweathermap.org/current)
-
-[Axios](https://www.npmjs.com/package/axios)
-
-[URLSearchParams](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams)
-
-[useState](https://reactjs.org/docs/hooks-reference.html#usestate)
-
-[useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect)
-
-[Switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
-
-[FontAwesome](https://www.npmjs.com/package/@fortawesome/react-fontawesome)
-
-[FontAwesome Weather Icons](https://fontawesome.com/icons?d=gallery&c=weather&m=free)

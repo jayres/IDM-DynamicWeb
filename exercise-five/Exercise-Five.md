@@ -1,62 +1,49 @@
-# Exercise Five: Users and Authentication
+# Exercise Five: Creating an API
 
-The purpose of this exercise is to get create users and allow users to authenticate to your site.
+The purpose of this exercise is to get used to getting and posting data to an API.
 
-## Steps
+## Requirements:
 
-1. Create a Create React App folder and push it to your Github
-2. Create the components you will need (and put in some filler content):
+1. Have a deployed Node app
+2. Have a firebase database
+3. Have a place to view data
+4. Have a place to write data through a form
 
-- Components
-  - Login Form
-  - Create User Form
-  - User Profile Components
-- Pages
-  - Login Page
-  - Create User Form
-  - User Profile Page
+## Directions:
 
-3. Sign up to Netlify and deploy to Netlify
-4. Set up routes for your project (See exercise one for assistance)
-5. Create universal header for the project
-6. Hook up Firebase to your project and create new Firebase project
-7. Setup Firebase Auth (https://firebase.google.com/docs/auth/web/password-auth)
-8. Setup Create Account flow
-9. Setup Login Flow
-10. Setup Logout Flow
-11. Display User Profile information on the User Profile page.
-12. Display items in header based on user's logged in/out state
-13. Send user to login if logged out and user profile if logged in
-14. Send a link to your Github repo and a deployed version of the app from Netlify
+1. Create new Github Repository named "Dynamic Web Exercise Four"
+2. Create and set up a new Node server (see Exercise 3)
+3. Deploy the server to Heroku
+4. Connect Firebase to the Node app (web code)
+5. Create a Cloud Firestore database in Firebase - put on test mode for easy integration but you can use production if you are comfortable changing security settings.
+6. Create a schema in Firebase for blog posts (include title, text, and author)
+7. Setup a query from Firebase for an individual article (based on ID)
+8. Setup a query from Firebase for all articles
+9. Setup a route for each article
+10. Setup a route for all articles
+11. Create an html form in a route that has an action which posts to your API
+12. Submit the link to the Github repo AND the link to the deployed server to James at ja155@nyu.edu
 
-## Miscellaneous Notes
+## Useful Resources
 
-1. You will have to track whether a user is signed in or not
-2. You will have to make sure you are querying data for a user specifically
-3. Rely heavily on Firebase for handling the get user and authentication (https://firebase.google.com/docs/auth/web/manage-users#get_a_users_profile)
+_Note:_ Focus on "web" instead of Node for this project. Node will take you deeper into the Google Cloud Platform (which is more secure and scalable but outside of the scope for this exercise)
 
-## Resources
+[Deploying Node to Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
 
-[Sign Up to Netlify](https://www.netlify.com/)
+[Firebase Setup in JavaScript](https://firebase.google.com/docs/web/setup?authuser=0)
 
-[CI & Netlify Deploy Settings](https://dev.to/easybuoy/deploying-react-app-from-github-to-netlify-3a9j)
+[Firebase Config Object](https://firebase.google.com/docs/web/setup?authuser=0#config-object)
 
-[Deploy CRA to Netlify](https://www.freecodecamp.org/news/how-to-deploy-react-router-based-app-to-netlify/)
+_Note_: You will get your config object directly from Firebase admin panel in project settings. Just copy that and paste it in,
 
-[Deploying to Netlify](https://docs.netlify.com/site-deploys/overview/#branch-deploy-controls)
+[Firestore Get Started](https://firebase.google.com/docs/firestore/quickstart)
 
-[Firebase Auth](https://firebase.google.com/docs/auth)
+[Firebase Read & Write Data](https://firebase.google.com/docs/firestore/query-data/get-data)
 
-[Getting Started with Authentication - Firebase](https://firebase.google.com/docs/auth/web/start)
+[Firebase Set Data](https://firebase.google.com/docs/firestore/manage-data/add-data)
 
-[Firebase Auth - SDK Web](https://firebase.google.com/docs/auth/web/password-auth)
+[MDN - Node Forms](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms)
 
-[Connect Firebase to your Web Project](https://firebase.google.com/docs/web/setup)
+### Extra Resources
 
-[Users in Firebase](https://firebase.google.com/docs/auth/users)
-
-[Managing Users](https://firebase.google.com/docs/auth/web/manage-users#get_the_currently_signed-in_user)
-
-[Auth Persistence](https://firebase.google.com/docs/auth/web/auth-state-persistence)
-
-[Get Currently Signed In User](https://firebase.google.com/docs/auth/web/manage-users#get_the_currently_signed-in_user)
+[Firestore Quickstart GitHub Repo](https://github.com/firebase/quickstart-js/tree/master/firestore) : This might contain some useful code but note that it is not the same as the exercise. Keeping this here for future knowledge

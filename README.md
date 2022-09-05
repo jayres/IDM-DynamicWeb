@@ -1,4 +1,4 @@
-# DM-UY 3193: Dynamic Web Applications - Fall 2021
+# DM-UY 3193: Dynamic Web Applications - Fall 2022
 
 Tandon School of Engineering of New York University
 
@@ -10,7 +10,7 @@ Integrated Digital Media
 
 Tuesday & Thursday: 8:00 a.m. - 9:50 a.m.
 
-370 Jay Street, Room 309
+370 Jay Street, Room 307
 
 ## Who
 
@@ -73,7 +73,7 @@ Grades will be determined by the following criteria:
 - 25%: Final Project
 - 20%: Midterm Project
   - Projects will be graded based on fulfilling the project criteria, demonstrating your knowledge of course materials, code quality, problem solving skills, and level of difficulty. A grading rubric will be attached to the project assignments to help students understand what is expected of them - however these projects contain a creative component and students are urged to push boundaries and experiment. The creative component is critical to attaining a maximum grade on all projects.
-- 50%: Exercises (5 total exercises - 10% each)
+- 50%: Exercises (6 total exercises)
   - Exercises will be graded based on completion of the exercise objectives
 - 5%: Attendance and Participation
   - Attendance is mandatory unless excused.
@@ -106,15 +106,17 @@ Performance and attendance of the student has been such that course requirements
 
 ## Assignments, Projects, and Other Grades
 
-Exercise One (10%): Setup Accounts and Deploy Simple Application
+Exercise One (8%): Tools and Best Practices
 
-Exercise Two (10%): Weather App
+Exercise Two (8%): Setup Accounts and Deploy Simple Application
 
-Exercise Three (10%): Simple Server
+Exercise Threee (8%): Weather App
 
-Exercise Four (10%): Creating an API
+Exercise Four (8%): Simple Server
 
-Exercise Five (10%): Users and Authentication
+Exercise Five (8%): Creating an API
+
+Exercise Six (10%): Users and Authentication
 
 Midterm Project (20%)
 
@@ -133,205 +135,106 @@ You must be registered with CSD to receive accommodations. Information about the
 
 _Please refer to the official academic schedule for all dates._
 
-Thursday, September 2: First class
+Thursday, September 1: First class
 
-Tuesday, September 15: Last day to Add/Drop course and receive refund
+Tuesday, September 14: Last day to Add/Drop course and receive refund
 
 Tuesday, October 11: No class - Monday classes meet
 
 Tuesday, November 3: Midterm grades due
 
-Thursday, November 26: No class (Thanksgiving break)
+Thursday, November 24: No class (Fall break)
 
-December 6: Last day to withdraw from class
+December 5: Last day to withdraw from class
 
-Tuesday, December 14: Last Class (and last day of classes)
+Tuesday, December 13: Last Class (Dec 14 is last day of classes)
 
 Friday, December 17: Final grades due
 
 ## Weekly Schedule
 
-Please note that this schedule may shift as the semester goes on to account for student’s progression through the course material. Please see the Github for all readings.
+Please note that this schedule may shift as the semester goes on to account for the student's progression through the course material. Please see the Github for all readings.
 
-### Part One: Understanding Server/Client Relationship and Protocols
+### Part One: Accessibility, Coding Practices, and Tools
 
-#### Class 1:
+#### Class 1 - 4
 
-_Lecture_:
+_Lectures:_
 
-Browsers, Servers, Protocols: What are they and how do they work together?
+- CSS and HTML Best Practices
+- The Role of JavaScript
+- JavaScript Review: Strings, Arrays, Objects, Numbers
 
-#### Class 2:
+_Studio:_
 
-_Studio_: Exercise One Assigned
-
-#### Class 3:
-
-_Lecture_:
-Introduction to React and Other JavaScript Frameworks
-
-JavaScript Review: Strings, Arrays, Objects, Numbers
-
-Basics of APIs
-
-#### Class 4:
-
-_Studio_:
-CSS and JavaScript application
-
-Work on Exercise One
-
-#### Class 5:
-
-_Lecture_:
-
-JavaScript Review: Methods, Functions, JSON
-
-#### Class 6:
-
-_Studio_: Finish Exercise One and expand on application of API understanding
+- Exercise One
 
 ### Part Two: Applying Server/Client Relationship to Creative Practice
 
-#### Class 7:
+#### Class 5 - 10:
 
-_Lecture_:
-Overview of React and how data passes through a modern JavaScript application
+_Lectures:_
 
-How can a dynamic system be part of a creative practice
+- Introduction to React and Other JavaScript Frameworks
+- Basics of APIs
+- Browsers, Servers, Protocols: What are they and how do they work together?
+- Overview of React and how data passes through a modern JavaScript application
+- How can a dynamic system be part of a creative practice
+- Application State - Why it’s important to understand and track existing data
 
-_Studio_: Begin Exercise Two & work on setting up Create React App
+_Studio:_
 
-#### Class 8:
+- Exercise Two - Weather App
 
-_Lecture_:
-Understanding Querying Data
-
-_Studio_: Exercise Two work and review last two technical lectures
-
-#### Class 9:
-
-_Lecture_:
-
-Application State - Why it’s important to understand and track existing Data and How to Work with It
-
-Parsing Data, Responses, and Errors
-
-#### Class 10:
-
-_Studio_: Finish Exercise Two
-
-Assign Midterm Project
+_Class 10: Assign Midterm Project_
 
 ### Part Three: Building Servers and Connecting Servers to Clients
 
-#### Class 11:
+#### Class 11 - 16:
 
-_Lecture_:
-Introduction to Node Servers
+_Lectures:_
 
-#### Class 12:
+- Introduction to Node Servers
+- Understanding Querying Data
+- Parsing Data, Responses, and Errors
+- Building an API in Node
+- Rendering views in Express
 
-_Studio_: Assign Exercise Three & Work through setting up Node servers
+_Studio:_
 
-#### Class 13:
+- Exercise Three & Four
 
-_Lecture_:
-
-Building an API in Node
-
-Rendering views in Express
-
-#### Class 14:
-
-_Studio_:
-
-Work on Exercise Three
-
-Time to check in and get status on Midterm Projects
-
-#### Class 15:
-
-_Additional Studio Time_:
-
-Work on Midterm projects and ask questions
-
-Exercise Three Due
-
-#### Class 16:
-
-Midterm projects due & project presentations
+Class 16: Midterm projects due & project presentations
 
 ### Part Four: Using Servers, Understanding Data Structures, and Morphing Data
 
-#### Class 17:
+#### Class 17 - 23:
 
-_Lecture_:
+_Lectures:_
 
-Conceptual Understanding of the Role of Databases in Infrastructure
+- Conceptual Understanding of the Role of Databases in Infrastructure
+- Importance of Types in Data Structures
+- Working with Data Schemas
+- Deploying Front Ends and Servers
+- Patterns and Abstraction
+- Packages & Package Management
 
-Importance of Types in Data Structures
+_Studio:_
 
-Working with Data Schemas
-
-#### Class 18:
-
-_Studio_: Exercise Four assigned
-
-#### Class 19:
-
-_Lecture_:
-
-Deploying Front Ends and Servers
-
-Patterns and Abstraction
-
-Packages & Package Management
-
-#### Class 20:
-
-_Studio_: Work on Exercise Four
-
-#### Class 21:
-
-_Lecture_:
-
-Conceptual Understanding of Authentication
-
-Assign Final Projects
-
-#### Class 22:
-
-_Studio_: Finish Exercise Four
-
-#### Class 23:
-
-_Lecture_:
-
-[Professor saves this time for reviewing and expanding understanding of existing topics]
-
-#### Class 24:
-
-_Studio_: Assign Exercise Five
+- Exercise Five
 
 ### Part Five: Security, Ethics, and Experimentation in a Creative Practice
 
-#### Class 25:
+#### Class 25 - 27:
 
-_Lecture_:
+_Lectures:_
 
-Basics of Security with Web Applications
+- Basics of Security with Web Applications
+- Discussion of Ethics with Web Applications
+- Creative Practice overview (45 minutes)
 
-Discussion of Ethics with Web Applications
+_Studio:_
 
-#### Class 26:
+- Exercise Six
 
-_Lecture_: Creative Practice overview (45 minutes)
-
-(Note: During this lecture students will be assigned an artist to discuss in the context of digital creative practice)
-
-_Studio_: Finish Exercise Five
-
-#### Class 27:
-
-Final Project Due & Project Presentations
+_Class 27:_ Final Project Due & Project Presentations

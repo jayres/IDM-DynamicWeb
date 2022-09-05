@@ -1,49 +1,46 @@
-# Exercise Four: Creating an API
+# Exercise Four: Simple Server
 
-The purpose of this exercise is to get used to getting and posting data to an API.
+## Requirements
 
-## Requirements:
+1. Learn about servers
+2. Setup a server
 
-1. Have a deployed Node app
-2. Have a firebase database
-3. Have a place to view data
-4. Have a place to write data through a form
+## Directions
 
-## Directions:
+Part One:
 
-1. Create new Github Repository named "Dynamic Web Exercise Four"
-2. Create and set up a new Node server (see Exercise 3)
-3. Deploy the server to Heroku
-4. Connect Firebase to the Node app (web code)
-5. Create a Cloud Firestore database in Firebase - put on test mode for easy integration but you can use production if you are comfortable changing security settings.
-6. Create a schema in Firebase for blog posts (include title, text, and author)
-7. Setup a query from Firebase for an individual article (based on ID)
-8. Setup a query from Firebase for all articles
-9. Setup a route for each article
-10. Setup a route for all articles
-11. Create an html form in a route that has an action which posts to your API
-12. Submit the link to the Github repo AND the link to the deployed server to James at ja155@nyu.edu
+1. Download and install Node (use latest stable version)
+2. Install Express (use latest stable version)
+3. Create new folder
+4. Create `app.js` file
+5. Run `npm init`
+6. Create an Express Server running on port 4000
+7. Express Server should output 'Hello World' to the browser
+
+Part Two:
+
+1. Create a folder called `public`
+2. Put an image in the folder
+3. Setup static route for assets
+
+Part Three:
+
+1. Create folder called `routes`
+2. Create a file in that folder called `index.js`
+3. Create a file in that folder called `about.js`
+4. Have the routes file control what information is being shown in your express server
+
+- One route to `/`
+- One route to `/about`
+- One route to `/about/me`
 
 ## Useful Resources
 
-_Note:_ Focus on "web" instead of Node for this project. Node will take you deeper into the Google Cloud Platform (which is more secure and scalable but outside of the scope for this exercise)
+[Node](https://nodejs.org/en/)
+[Install Express](https://expressjs.com/en/starter/installing.html)
 
-[Deploying Node to Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
+[Express Hello World Tutorial](https://expressjs.com/en/starter/hello-world.html)
 
-[Firebase Setup in JavaScript](https://firebase.google.com/docs/web/setup?authuser=0)
+[Express FAQs](https://expressjs.com/en/starter/faq.html)
 
-[Firebase Config Object](https://firebase.google.com/docs/web/setup?authuser=0#config-object)
-
-_Note_: You will get your config object directly from Firebase admin panel in project settings. Just copy that and paste it in,
-
-[Firestore Get Started](https://firebase.google.com/docs/firestore/quickstart)
-
-[Firebase Read & Write Data](https://firebase.google.com/docs/firestore/query-data/get-data)
-
-[Firebase Set Data](https://firebase.google.com/docs/firestore/manage-data/add-data)
-
-[MDN - Node Forms](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms)
-
-### Extra Resources
-
-[Firestore Quickstart GitHub Repo](https://github.com/firebase/quickstart-js/tree/master/firestore) : This might contain some useful code but note that it is not the same as the exercise. Keeping this here for future knowledge
+[Express Routing](http://expressjs.com/en/guide/routing.html)
