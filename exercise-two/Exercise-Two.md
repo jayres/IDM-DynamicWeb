@@ -1,4 +1,4 @@
-# Exercise One: Get Used to React and Showing Data
+# Exercise Two: Get Used to React and Showing Data
 
 ## Requirements:
 
