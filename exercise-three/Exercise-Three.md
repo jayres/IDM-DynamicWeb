@@ -3,16 +3,16 @@
 ## Requirements:
 
 1. Use Github better
-2. Everything from Exercise One
+2. Everything from Exercise One and Two
 
 ## Directions:
 
-1. Create new Github Repository named "Dynamic Web Exercise Two"
+1. Create new Github Repository named "Dynamic Web Exercise Three"
 
 2. Install Create React App and Create New Project
 
 ```
-npx create-react-app exercise-two
+npx create-react-app exercise-three
 ```
 
 (note, you may have to install npx: `npm install -g npx`)
@@ -60,7 +60,7 @@ npx create-react-app exercise-two
 
 15. Style the page so it has a unique look and has a responsive layout
 
-16. Submit the link to the Github repo AND a screenshot of your weather app to James at ja155@nyu.edu
+16. Submit the link to the Github repo _AND a screenshot of your weather app_ to James at ja155@nyu.edu
 
 ## Useful Resources
 
