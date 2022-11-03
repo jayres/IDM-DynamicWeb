@@ -11,8 +11,8 @@ The purpose of this exercise is to get used to getting and posting data to an AP
 
 ## Directions:
 
-1. Create new Github Repository named "Dynamic Web Exercise Four"
-2. Create and set up a new Node server (see Exercise 3)
+1. Create new Github Repository named "Dynamic Web Exercise Five"
+2. Create and set up a new Node server (see Exercise 4)
 3. Deploy the server to Heroku
 4. Connect Firebase to the Node app (web code)
 5. Create a Cloud Firestore database in Firebase - put on test mode for easy integration but you can use production if you are comfortable changing security settings.
