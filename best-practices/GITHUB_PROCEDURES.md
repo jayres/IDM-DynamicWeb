@@ -23,7 +23,7 @@ git init
 git add .
 git commit -m "first commit"
 git remote add origin git@github.com:userName/IDM-project.git // This will be unique to your repo
-git push -u origin master
+git push -u origin main
 ```
 
 6. Your Github repo will now be set up
@@ -32,7 +32,7 @@ git push -u origin master
 ```
 git add .
 git commit -m "commit message"
-git push origin master
+git push origin main
 ```
 
 ## Participating in the Code Base (Advanced)
@@ -56,7 +56,7 @@ git checkout --no-track -b feature/branch-name origin/master
 
 ```
 git remote update
-git rebase -i origin/master
+git rebase -i origin/main
 ```
 
 - this will open an interactive rebase in vim
