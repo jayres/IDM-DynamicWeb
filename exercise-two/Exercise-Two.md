@@ -40,7 +40,7 @@ npx create-next-app@latest
 
 11. Display blurb in card and on article page
 
-12. Make sure the design of the exercise matches the provided designs EXACTLY
+12. Make sure the design of the exercise matches the provided designs with your own twist
 
 13. Submit the link to the Github repo to James at ja155@nyu.edu or through Brightspace
 
@@ -50,6 +50,8 @@ npx create-next-app@latest
 
 [Routing in Next.js](https://nextjs.org/docs/app/building-your-application/routing)
 
-[Getting an ID from the URL](https://tylermcginnis.com/react-router-url-parameters/)
-
 Please note that this is for a different _methodology_ of React that we are going to be using for this class - it is instructive though and should help you understand some more in depth things.
+
+[Next.js Page Routing](https://nextjs.org/docs/pages/building-your-application/routing/pages-and-layouts)
+
+[Next.js Links](https://nextjs.org/docs/pages/building-your-application/routing/linking-and-navigating)
