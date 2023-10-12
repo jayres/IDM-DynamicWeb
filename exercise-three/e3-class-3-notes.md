@@ -44,3 +44,5 @@ export default function Home({ weatherData }) {
   return (
     ...
 ```
+
+5. Added Header to link to a query for individual cities
