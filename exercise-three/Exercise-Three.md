@@ -31,7 +31,7 @@ npx create-next-app@latest
 - Go to [https://openweathermap.org/guide](https://openweathermap.org/guide) and follow the directions
 - [https://home.openweathermap.org/users/sign_up](https://home.openweathermap.org/users/sign_up) create a new account (use your school address and you won't have to pay anything)
 - When logged in, go to [API Keys](https://home.openweathermap.org/api_keys) and either create a key or use one that may be there
-- Store your key somewhere (in the code as per my instructions)
+- Store your key somewhere (in the code as per my instructions) as [an environmental variable](https://nextjs.org/docs/pages/building-your-application/configuring/environment-variables)
 
 10. Setup a query based on a city per the OpenWeatherMap docs [https://openweathermap.org/current](https://openweathermap.org/current)
 
@@ -61,6 +61,8 @@ npx create-next-app@latest
 
 [Pre-rendering and Data Fetching - Next](https://nextjs.org/learn/basics/data-fetching/getstaticprops-details)
 
+[Next.js getStaticPaths](https://nextjs.org/docs/pages/building-your-application/data-fetching/get-static-paths) - You will need this when you use getStaticProps and dynamic URLs like we are.
+
 [Fetch - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
 [useState](https://reactjs.org/docs/hooks-reference.html#usestate)
@@ -82,3 +84,5 @@ Please note that this is for a different _methodology_ of React that we are goin
 [Next.js Page Routing](https://nextjs.org/docs/pages/building-your-application/routing/pages-and-layouts)
 
 [Next.js Links](https://nextjs.org/docs/pages/building-your-application/routing/linking-and-navigating)
+
+[Next.js Env Vars](https://nextjs.org/docs/pages/building-your-application/configuring/environment-variables)
