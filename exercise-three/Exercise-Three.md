@@ -86,3 +86,5 @@ Please note that this is for a different _methodology_ of React that we are goin
 [Next.js Links](https://nextjs.org/docs/pages/building-your-application/routing/linking-and-navigating)
 
 [Next.js Env Vars](https://nextjs.org/docs/pages/building-your-application/configuring/environment-variables)
+
+[Openweather Weather Types](https://openweathermap.org/weather-conditions)
