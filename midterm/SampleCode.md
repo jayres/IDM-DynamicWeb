@@ -47,3 +47,21 @@ export async function getStaticProps() {
   };
 }
 ```
+
+# Querying an API with Headers
+
+Headers are data that are sent in the request to the API.
+Previously we have used URL parameters to send this data but many APIs require the data be sent as a header.
+
+The way to use headers can be found [in the fetch MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
+
+```js
+const response = await fetch(url,
+  {
+    headers: {
+      "Authorization Bearer": API_KEY
+      "Content-Type": "application/json"
+    }
+  }
+);
+```
