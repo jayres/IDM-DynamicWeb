@@ -12,7 +12,7 @@ Part One:
 1. Download and install Node (use latest stable version)
 2. Install Express (use latest stable version)
 3. Create new folder
-4. Create `app.js` file
+4. Create `index.js` file
 5. Run `npm init`
 6. Create an Express Server running on port 4000
 7. Express Server should output 'Hello World' to the browser
