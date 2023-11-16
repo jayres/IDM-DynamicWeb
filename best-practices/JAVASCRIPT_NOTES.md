@@ -51,3 +51,17 @@ switch (pet) {
     return "no idea...";
 }
 ```
+
+### Spread Operator
+
+[MDN Spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
+If you want to expand the data in the object or array you can spread it when you do not want to create a reference to that array or object specifically.
+
+```js
+const sampleArray = [1, 2, 3, 4];
+const newArray = [5, 6, sampleArray];
+// newArray will equal [5,6,[1,2,3,4]]; note the array inside of the array
+const newArraySpread = [5, 6, ...sampleArray];
+// newArraySpread will equal [5,6,1,2,3,4];
+```
