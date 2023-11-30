@@ -65,3 +65,25 @@ const newArray = [5, 6, sampleArray];
 const newArraySpread = [5, 6, ...sampleArray];
 // newArraySpread will equal [5,6,1,2,3,4];
 ```
+
+## Optional Chaining
+
+With any property accessors in Javascript you are able to use a `?` to ensure that the accessing of deep values does not fail.
+
+As an example, this will cause an error:
+
+```js
+const example = { person: null };
+const breakingPerson = person.info.name;
+```
+
+This causes an error because person is null so it cannot have a value of `info` nor `name`.
+
+Optional chaining allows you to protect from accessor errors:
+
+```js
+const example = { person: null };
+const breakingPerson = person?.info?.name;
+```
+
+In this instance `breakingPerson` will be undefined instead of causing an error. Use this only when needed as it can cause confusion for people who are editing your code or make debugging more difficult.

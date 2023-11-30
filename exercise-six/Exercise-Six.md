@@ -16,18 +16,19 @@ The purpose of this exercise is to get create users and allow users to authentic
   - Create User Form
   - User Profile Page
 
-3. Sign up to Zeit and deploy to Zeit
+3. Sign up to Vercel and deploy to Vercel
 4. Set up routes/pages for your project
-5. Create universal header for the project
-6. Hook up Firebase to your project and create new Firebase project
-7. Setup Firebase Auth (https://firebase.google.com/docs/auth/web/password-auth)
-8. Setup Create Account flow
-9. Setup Login Flow
-10. Setup Logout Flow
-11. Display User Profile information on the User Profile page.
-12. Display items in header based on user's logged in/out state
-13. Send user to login if logged out and user profile if logged in
-14. Send a link to your Github repo and a deployed version of the app from Zeit
+5. Create a global wrapper (\_app.js)
+6. Create universal header for the project
+7. Hook up Firebase to your project and create new Firebase project
+8. Setup Firebase Auth (https://firebase.google.com/docs/auth/web/password-auth)
+9. Setup Create Account flow
+10. Setup Login Flow
+11. Setup Logout Flow
+12. Display User Profile information on the User Profile page.
+13. Display items in header based on user's logged in/out state
+14. Send user to login if logged out and user profile if logged in
+15. Send a link to your Github repo and a deployed version of the app from Vercel
 
 ## Miscellaneous Notes
 
@@ -52,3 +53,5 @@ The purpose of this exercise is to get create users and allow users to authentic
 [Auth Persistence](https://firebase.google.com/docs/auth/web/auth-state-persistence)
 
 [Get Currently Signed In User](https://firebase.google.com/docs/auth/web/manage-users#get_the_currently_signed-in_user)
+
+[Single Shared Layout in Next](https://nextjs.org/docs/pages/building-your-application/routing/pages-and-layouts#single-shared-layout-with-custom-app)
