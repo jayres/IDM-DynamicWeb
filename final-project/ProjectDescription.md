@@ -17,6 +17,13 @@ The project is due ​no later than December 14 at midnight​.
 
 No late assignments - talk with me well ahead of time if you need any help or accommodations.
 
+## Project Requirements
+
+When submitting the site, include information about:
+
+1. Concept of your site
+2. Can you sign in, create user, create post, view posts? Include a screenshot if this is not obvious from your deployed site.
+
 ## Project Description
 
 The goal of this project is to make a social media site. You will make a fully functioning social media site with users, posts, and styling. This means you will need:
