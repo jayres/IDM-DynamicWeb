@@ -10,15 +10,15 @@ Integrated Digital Media
 
 Tuesday & Thursday: 8:00 a.m. - 9:50 a.m.
 
-370 Jay Street, Room 311
+370 Jay Street, Room 308
 
 ## Who
 
 ### Professor Contact Information
 
-ja155@nyu.edu
+ja155@nyu.edu or jfrancis.ayres@gmail.com
 
-370 Jay St, Room 311
+370 Jay St, Room 308
 
 ### Office Hours
 
@@ -48,21 +48,22 @@ Students will:
 
 By the end of the course, students will be able to:
 
-- Design, build, and develop content for a web applications.
-- Understand and implement the iterative process
-- Set up servers, have servers talk to browsers, and understand how protocols work
-- Create an internal developer / creative community
+- design, build, and develop content for a web applications.
+- understand and implement the iterative process
+- set up servers, have servers talk to browsers, and understand how protocols work
+- create an internal developer / creative community
 
 ## Course Structure
 
 ### Lectures
 
-Tuesday will consist of lectures to discuss the readings and for additional teaching. Lectures will be more conversational than direct instruction so students are expected to be prepared to discuss and share their thoughts. Questions are encouraged.
+Tuesday will primarily consist of lectures to discuss the readings and for practical, group-focused coding. Lectures will be more conversational than direct instruction so students are expected to be prepared to discuss and share their thoughts. Questions/comments are encouraged.
 
 ### Studio Time
 
 Thursday will consist of mostly studio time where students will work on exercises, learn to pair program, and have short, smaller lectures based on the materials being handled in the exercises.
-Readings
+
+### Readings
 
 _There is no textbook for the course_. Readings will be made available in the Github repository for the course and students are responsible for checking the reading list on their own. Though there may be updates to the readings throughout the semester, there will be no updates one week before class.
 
@@ -135,19 +136,17 @@ You must be registered with CSD to receive accommodations. Information about the
 
 _Please refer to the official academic schedule for all dates._
 
-Thursday, September 5: First class
+Thursday, September 4: First class
 
-Tuesday, September 18: Last day to Add/Drop course and receive refund
+Monday, September 16: Last day to Add/Drop course and receive refund
 
-Tuesday, October 10: No class - Monday classes meet
+Tuesday, October 15: No class - Monday classes meet
 
-Tuesday, November 3: Midterm grades due
+Monday, November 25: Last day to withdraw from class
 
-Thursday, November 24: No class (Fall break)
+Thursday, November 28: No class (Fall break)
 
-December 4: Last day to withdraw from class
-
-Tuesday, December 14: Last Class (Dec 15 is last day of classes)
+Tuesday, December 12: Last Class (Dec. 15 is last day of classes)
 
 Friday, December 18: Final grades due
 
