@@ -1,4 +1,4 @@
-# DM-UY 3193: Dynamic Web Applications - Fall 2023
+# DM-UY 3193: Dynamic Web Applications - Fall 2024
 
 Tandon School of Engineering of New York University
 
