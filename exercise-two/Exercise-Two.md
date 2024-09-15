@@ -28,7 +28,7 @@ npx create-next-app@latest
 
 6. Import and loop over JSON data to show article previews
 
-7. Display full article on article page accessible by a route (for example, 'article-one' is available at '/article/article-one')
+7. Display full article on article page accessible by a route (for example, the article with the ID of 'article-one' is available at `/article/article-one`)
 
 8. Display image in card and in header on article
 
