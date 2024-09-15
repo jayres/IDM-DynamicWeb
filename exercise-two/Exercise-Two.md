@@ -20,15 +20,13 @@ npx create-next-app@latest
 
 3. Init new Github repo inside of the new project
 
-4. Create two more pages inside a `pages` folder
+4. Create a page.js file inside a `article` folder and then inside of a `[slug]` folder.
 
-- Article Listing Page
-- Article Page
 - Optional - clean out files you are not going to use
 
-5. Create components for injesting JSON data and common components in a `components` folder
+5. Create a folder for putting JSON data file into
 
-6. Loop over JSON data to show article previews
+6. Import and loop over JSON data to show article previews
 
 7. Display full article on article page accessible by a route (for example, 'article-one' is available at '/article/article-one')
 
@@ -46,12 +44,12 @@ npx create-next-app@latest
 
 ## Useful Resources
 
+"Next.js is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations."
+
 [Next.js](https://nextjs.org/docs)
 
-[Routing in Next.js](https://nextjs.org/docs/app/building-your-application/routing)
+[Next.js "Pages"](https://nextjs.org/docs/app/building-your-application/routing/pages)
 
-Please note that this is for a different _methodology_ of React that we are going to be using for this class - it is instructive though and should help you understand some more in depth things.
-
-[Next.js Page Routing](https://nextjs.org/docs/pages/building-your-application/routing/pages-and-layouts)
+[Next.js Dynamic Routes](https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes)
 
 [Next.js Links](https://nextjs.org/docs/pages/building-your-application/routing/linking-and-navigating)
