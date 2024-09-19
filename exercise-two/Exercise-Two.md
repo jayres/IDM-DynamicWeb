@@ -20,27 +20,26 @@ npx create-next-app@latest
 
 3. Init new Github repo inside of the new project
 
-4. Create a page.js file inside a `article` folder and then inside of a `[slug]` folder.
+4. Create a `article` folder and then inside of a `[slug]` folder create a `page.js` file.
 
 - Optional - clean out files you are not going to use
 
-5. Create a folder for putting JSON data file into
+5. Move the data.json file into your app folder.
 
-6. Import and loop over JSON data to show article previews
+6. Create an article card component and then import and loop over JSON data to show article previews on the Article Listing page.
+
+- Display image in card
+- Display published date in card
+- Display title in card
+- Display blurb in card
 
 7. Display full article on article page accessible by a route (for example, the article with the ID of 'article-one' is available at `/article/article-one`)
 
-8. Display image in card and in header on article
+- Ensure all elements are present on the Article page.
 
-9. Display published date in card and on article page
+8. Make sure the design of the exercise matches the provided designs with your own twist
 
-10. Display title in card and on article page
-
-11. Display blurb in card and on article page
-
-12. Make sure the design of the exercise matches the provided designs with your own twist
-
-13. Submit the link to the Github repo to James at ja155@nyu.edu or through Brightspace
+9. Submit the link to the Github repo to James at ja155@nyu.edu or through Brightspace
 
 ## Useful Resources
 
