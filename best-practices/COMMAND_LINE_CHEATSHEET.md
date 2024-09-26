@@ -27,3 +27,7 @@ cd ../
 # List all files/folders at your current location in the file system
 ls
 ```
+
+## Closing an active terminal process
+
+Instead of just closing the terminal when you want to end a process, you can hit `ctrl + c` to end a process. This is useful for many of the node/npm processes we run.
