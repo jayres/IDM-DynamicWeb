@@ -15,6 +15,8 @@
 npx create-next-app@latest
 ```
 
+`no, yes, no, no, yes, no`
+
 3. Init new Github repo inside of the new project
 
 4. We will use the default page.js only
