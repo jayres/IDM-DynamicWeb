@@ -1,4 +1,8 @@
-# useState
+# Built-in React Hooks
+
+[Link to documentation](https://react.dev/reference/react/hooks)
+
+## useState
 
 ```js
 const [stateValue, setStateValueFunction] = useState("Hmm");
@@ -6,15 +10,16 @@ const [stateValue, setStateValueFunction] = useState("Hmm");
 return (
   <div>
     {stateValue}
-    <button onClick={() => setStateValueFunction("hello")}>Hello</button>
-    <button onClick={() => setStateValueFunction("goodbye")}>Goodbye</button>
+    <button onClick={() => setStateValFunc("hello")}>Set Hello</button>
+    <button onClick={() => setStateValFunc("bye")}>Set Bye</button>
   </div>
 );
 ```
 
-# useEffect
+## useEffect
 
 ```js
+
 const [dataValues, setDataValues] = useState()
 const needToUpdate = 'this is a value that when it will update the useEffect will run again'
 
@@ -28,7 +33,7 @@ useEffect(
 
 ```
 
-# useCallback
+## useCallback
 
 ```js
 const [dataToDisplay, setDataToDisplay] = useState([]);
@@ -45,4 +50,25 @@ return (
     <button onClick={() => getNewData()}>New Data</button>
   </div>
 );
+```
+
+## useMemo
+
+```js
+const value = useMemo(() => {
+  return horses;
+}, [horses]);
+
+const { valueOne, valueTwo } = useMemo(() => {
+  if (horses === "yes") {
+    return {
+      valueOne: "hay",
+      valueTwo: currentBarn,
+    };
+  }
+  return {
+    valueOne: "no hay",
+    valueTwo: "no barn",
+  };
+}, [currentBarn, horses]);
 ```
