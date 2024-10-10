@@ -19,7 +19,7 @@ npx create-next-app@latest
 
 3. Init new Github repo inside of the new project
 
-4. We will use the default page.js only
+4. We will use the default page.js and a "cityName" page to display weatherData
 
 - page.js (home page)
 - (optional) Clean out files you are not going to use
@@ -53,7 +53,7 @@ npx create-next-app@latest
 
 15. Style the page so it has a unique look and has a responsive layout
 
-16. Submit the link to the Github repo _AND a screenshot of your weather app_ to James at ja155@nyu.edu
+16. Submit the link to the Github repo _AND a screenshot of your weather app_ to James at ja155@nyu.edu or Brightspace.
 
 ## Useful Resources
 
