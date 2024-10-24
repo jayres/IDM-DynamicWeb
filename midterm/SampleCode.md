@@ -78,3 +78,32 @@ Below is some sample JSON to demonstrate some different patterns you may see. Ul
   }
 ]
 ```
+
+## Using JSON data
+
+Just like with Exercise Two, you can import the data and use it inside of the React component. In the example below I am using an ID I got from another API request to find a specific piece of JSON data.
+
+```jsx
+import jsonData from "../jsonData";
+
+async function Page() {
+  const FIRST_API = `https://api.whatever.com`;
+  const responseFirstAPI = await fetch(FIRST_API);
+  const firstAPIData = await responseFirstAPI.json();
+  const idForJSONData = firstAPIData.id;
+
+  // Find is an array method to search through an array and return
+  // the place in the array where the arrow function returns true.
+  // 'data' in the opening parenthesis represents the element in the
+  // array at the current index. This can be named anything.
+  const jsonInformationToUse = jsonData.find(
+    (data) => data.id === idForJSONData
+  );
+
+  return (
+    <div>
+      <p>{jsonInformationToUse.whateverInfoInMyFile}</p>
+    </div>
+  );
+}
+```
