@@ -18,7 +18,7 @@ const secondAPIData = await responseSecondAPI.json(); // This might be different
 ## Querying Two APIs that interact with one another
 
 ```js
-function Page() {
+async function Page() {
   const FIRST_API = `https://api.whatever.com`;
   const responseFirstAPI = await fetch(FIRST_API);
   const firstAPIData = await responseFirstAPI.json();
@@ -34,7 +34,7 @@ function Page() {
         <p>{data.valueFromThisData}</p>
       ))}
     </div>
-  )
+  );
 }
 ```
 
@@ -56,4 +56,25 @@ const response = await fetch(url, {
     "Content-Type": "application/json",
   },
 });
+```
+
+# Using JSON Data with an API
+
+If you are unable to find a second remote API that makes sense you may use a JSON file that you find or make (similar to exercise two).
+
+## Valid JSON format
+
+Below is some sample JSON to demonstrate some different patterns you may see. Ultimately remember that it is an array of objects and objects have key/value pairs.
+
+```json
+[
+  {
+    "key": "value",
+    "key2": [
+      {
+        "key3": 1000
+      }
+    ]
+  }
+]
 ```
