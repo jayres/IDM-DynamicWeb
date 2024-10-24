@@ -46,7 +46,9 @@ Previously we have used URL parameters to send this data but many APIs require t
 The way to use headers can be found [in the fetch MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
 
 ```js
+const url = `https://api.whatever.com`;
 const bearerToken = `Bearer ${process.env.API_KEY}`;
+
 const response = await fetch(url, {
   method: "POST",
   headers: {
