@@ -18,7 +18,24 @@ const secondAPIData = await responseSecondAPI.json(); // This might be different
 ## Querying Two APIs that interact with one another
 
 ```js
-// Incoming
+function Page() {
+  const FIRST_API = `https://api.whatever.com`;
+  const responseFirstAPI = await fetch(FIRST_API);
+  const firstAPIData = await responseFirstAPI.json();
+  const valueNeededForSecondAPI = firstAPIData.coolValue;
+
+  const SECOND_API = `https://api.yeah.com/${valueNeededForSecondAPI}`;
+  const responseSecondAPI = await fetch(SECOND_API);
+  const secondAPIData = await responseSecondAPI.json();
+
+  return (
+    <div>
+      {secondAPIData.map((data) => (
+        <p>{data.valueFromThisData}</p>
+      ))}
+    </div>
+  )
+}
 ```
 
 # Querying an API with Headers
