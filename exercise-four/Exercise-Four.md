@@ -12,18 +12,18 @@ Part One:
 1. Download and install Node (use latest stable version)
 2. Install Express (use latest stable version)
 3. Create new folder
-4. Create `index.js` file
+4. Create `app.js` file
 5. Run `npm init`
 6. Create an Express Server running on port 4000
 7. Express Server should output 'Hello World' to the browser
 
-Part Two:
+[Part Two:](https://expressjs.com/en/starter/static-files.html)
 
 1. Create a folder called `public`
 2. Put an image in the folder
 3. Setup static route for assets
 
-Part Three:
+[Part Three:](https://expressjs.com/en/starter/basic-routing.html)
 
 1. Create folder called `routes`
 2. Create a file in that folder called `index.js`
