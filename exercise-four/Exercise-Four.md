@@ -23,7 +23,7 @@ Part One:
 2. Put an image in the folder
 3. Setup static route for assets
 
-[Part Three:](https://expressjs.com/en/starter/basic-routing.html)
+[Part Three:](https://expressjs.com/en/guide/routing.html)
 
 1. Create folder called `routes`
 2. Create a file in that folder called `index.js`
