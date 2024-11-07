@@ -21,8 +21,17 @@ The purpose of this exercise is to get used to GETting and POSTing data to an AP
 8. Setup a route for each article
 9. Setup a route for all articles
 10. Create an html form in a route that has an action which posts to your API
-11. ~Deploy to ???~ (more information incoming)~
-12. Submit the link to the Github repo ~AND the link to the deployed server~ to James at ja155@nyu.edu or through Brightspace
+11. Put your firebase API key into a .env file
+
+- create .env file
+- create varible FIREBASE_KEY and put API key in
+- put `.env` into your .gitignore
+- change out value the config in app.js to `process.env.FIREBASE_KEY`
+
+12. Make the data safe by returning early if a value is not defined.
+13. Add a custom HTML page if the form submission is successful
+14. Style the Create Post HTML page
+15. Submit the link to the Github repo ~AND the link to the deployed server~ to James at ja155@nyu.edu or through Brightspace
 
 ## Useful Resources
 
