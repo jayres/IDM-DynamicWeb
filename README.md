@@ -146,7 +146,7 @@ Monday, November 25: Last day to withdraw from class
 
 Thursday, November 28: No class (Fall break)
 
-Tuesday, December 12: Last Class (Dec. 15 is last day of classes)
+Thursday, December 12: Last Class (Dec. 15 is last day of classes)
 
 Friday, December 18: Final grades due
 

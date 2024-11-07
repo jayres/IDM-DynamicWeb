@@ -4,7 +4,7 @@ The purpose of this exercise is to get used to GETting and POSTing data to an AP
 
 ## Requirements:
 
-1. Have a deployed Node app
+1. Have a ~deployed~ Node app
 2. Have a Firebase database
 3. Have a place to view data
 4. Have a place to write data through a form
@@ -21,8 +21,8 @@ The purpose of this exercise is to get used to GETting and POSTing data to an AP
 8. Setup a route for each article
 9. Setup a route for all articles
 10. Create an html form in a route that has an action which posts to your API
-11. Deploy to ??? (more information incoming)
-12. Submit the link to the Github repo AND the link to the deployed server to James at ja155@nyu.edu or through Brightspace
+11. ~Deploy to ???~ (more information incoming)~
+12. Submit the link to the Github repo ~AND the link to the deployed server~ to James at ja155@nyu.edu or through Brightspace
 
 ## Useful Resources
 
