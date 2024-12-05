@@ -62,3 +62,7 @@ If I were going to approach the project here is how I would go about it:
 ### Have the site styled
 
 This should look as good as you can do. Before writing any code, consider what the styling of the site will be.
+
+## Resources
+
+[Integrate Firebase with a Next.js app](https://firebase.google.com/codelabs/firebase-nextjs#5)
