@@ -65,4 +65,8 @@ This should look as good as you can do. Before writing any code, consider what t
 
 ## Resources
 
+Note you will need to modify the code in both of these examples heavily as they are outdated however I think they have a good start and demonstrate good understanding of the underlying flows:
+
 [Integrate Firebase with a Next.js app](https://firebase.google.com/codelabs/firebase-nextjs#5)
+
+[Implementing Auth with Firebase](https://blog.logrocket.com/implementing-authentication-in-next-js-with-firebase/)
